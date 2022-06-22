@@ -1,0 +1,13 @@
+{
+    "name": "Troca",
+    "alias": "troca",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Troca\\Providers\\TrocaServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

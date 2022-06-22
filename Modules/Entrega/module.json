@@ -1,0 +1,13 @@
+{
+    "name": "Entrega",
+    "alias": "entrega",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Entrega\\Providers\\EntregaServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

@@ -1,0 +1,12 @@
+{
+    "Cleinte": true,
+    "Cliente": true,
+    "Empresa": true,
+    "Endereco": true,
+    "Produto": true,
+    "Telefone": true,
+    "Pedido": true,
+    "Conta": true,
+    "Troca": true,
+    "Entrega": true
+}

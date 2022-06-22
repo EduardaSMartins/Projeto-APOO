@@ -1,0 +1,13 @@
+{
+    "name": "Conta",
+    "alias": "conta",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Conta\\Providers\\ContaServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
